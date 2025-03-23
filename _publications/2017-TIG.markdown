@@ -1,0 +1,11 @@
+---
+title:  "Learning constructive primitives for real-time dynamic difficulty adjustment in Super Mario Bros"
+authors: [P. Shi, K. Chen]
+year: 2017
+journal: IEEE Transactions on Games
+category: "ML"
+---
+
+
+
+

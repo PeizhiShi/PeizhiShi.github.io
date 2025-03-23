@@ -1,0 +1,8 @@
+---
+title:  "Data-driven optimisation of process parameters for reducing developed surface area ratio in laser powder bed fusion"
+authors: [Y. Qin, P. Shi, S. Lou, TL See, M Jamal, W. Zeng, L Blunt, P. J. Scott, X. Jiang]
+journal: The International Journal of Advanced Manufacturing Technology
+year: 2025 
+doi: "https://doi.org/10.1007/s00170-025-15038-4"
+category: "AI"
+---
