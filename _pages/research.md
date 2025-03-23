@@ -30,7 +30,6 @@ author_profile: true
 ### Softwares, tools and demos
 - [SsdNet for Machining Feature Recognition](https://github.com/PeizhiShi/SsdNet)
 - [MsvNet for Machining Feature Recognition](https://github.com/PeizhiShi/MsvNet)
-- [Hand Gesture Recognition](/../demo.mp4)
 - [Part Orientation via Facet Clustering](https://github.com/YuchuChingQin/GenerationOfABOs)
-- [Power Muirhead Mean Operators](https://github.com/YuchuChingQin/PFPMMOperatorsInDST)
+- [Hand Gesture Recognition](/../demo.mp4)
 
