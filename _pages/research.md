@@ -10,7 +10,7 @@ author_profile: true
 - 2025 - 2027, Principal Investigator, £241,516, "LLM-enhanced decision support system for the sustainable packaging sector", Knowledge Transfer Partnerships, Innovate UK
 
 ### Invited talk
-- 2025, "Applying AI for Enterprise Intelligence and Manufacturing Innovation", Future Advanced Metrology Hub for Sustainable Manufacturing
+- 2025, "Applying AI for Enterprise Intelligence and Manufacturing Innovation", The Future Advanced Metrology Hub for Sustainable Manufacturing
 - 2023, "Machine Learning for Decision-making in Intelligent Manufacturing", centre for decision research, University of Leeds
 - 2023, "Machine Learning Research in Intelligent Manufacturing", research festival, University of Huddersfield
 - 2019, "Machine Learning and its Applications", EPSRC Future Advanced Metrology Hub
