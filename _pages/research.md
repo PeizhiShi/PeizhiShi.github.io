@@ -7,7 +7,7 @@ author_profile: true
 
 ### Grant
 
-- 2025 - 2027, Principal Investigator, £241,516, "LLM-enhanced decision support system for the sustainable packaging sector", Knowledge Transfer Partnerships, Innovate UK
+- 2025 - 2027, Principal Investigator, £338,916, "LLM-enhanced decision support system for the sustainable packaging sector", Knowledge Transfer Partnerships with SR Mailing, Innovate UK
 
 ### Invited talk
 - 2025, "Applying AI for Enterprise Intelligence and Manufacturing Innovation", The Future Advanced Metrology Hub for Sustainable Manufacturing
