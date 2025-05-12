@@ -12,7 +12,7 @@ My research interests include **machine learning (ML), artificial intelligence (
 
 ### Recent news
 
-- Our KTP project has been awarded by Innovate UK (£338,916). I will serve as the principal investigator for this project.
+- Our KTP project has been awarded by SR Mailing and Innovate UK (£338,916). I will serve as the principal investigator for this project.
 - I am joining University of Leeds as a Lecturer in Applied Artificial Intelligence from September 2023!
 - Our work [Learn to rotate: Part orientation for reducing support volume via generalizable reinforcement learning](https://ieeexplore.ieee.org/abstract/document/10054468) has been accepted for publication in IEEE Transactions on Industrial Informatics (Impact Factor: 12.3)! 
 
