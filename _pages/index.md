@@ -12,6 +12,7 @@ My research interests include **machine learning (ML), artificial intelligence (
 
 ### Recent news
 
+- On 26th June 2025, [Kun Feng](https://www.linkedin.com/in/kun-feng-1a62b0a6/), Director of SR Mailing, and I were invited to co-present at the [Analytics, Technology and Operations Department](https://business.leeds.ac.uk/departments-analytics-technology-operations) event. Our talk explored the use of large language models to support sustainable innovation in the packaging industry.
 - Our KTP project has been jointly funded by [SR Mailing](https://www.srmailing.co.uk) and Innovate UK (£338,916). I will serve as the principal investigator for this project.
 - I am joining University of Leeds as a Lecturer in Applied Artificial Intelligence from September 2023!
 - Our work [Learn to rotate: Part orientation for reducing support volume via generalizable reinforcement learning](https://ieeexplore.ieee.org/abstract/document/10054468) has been accepted for publication in IEEE Transactions on Industrial Informatics (Impact Factor: 12.3)! 
