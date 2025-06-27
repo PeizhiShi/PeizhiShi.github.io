@@ -10,7 +10,7 @@ author_profile: true
 - 2025 - 2027, Principal Investigator, £338,916, "LLM-enhanced decision support system for the sustainable packaging sector", Knowledge Transfer Partnerships with SR Mailing, Innovate UK
 
 ### Invited talk
-- 2025, "LLM-Enhanced Decision Support System for the Sustainable Packaging Sector”, co-presented with Kun Feng (Director of SR Mailing) at the ATOD event
+- 2025, "LLM-Enhanced Decision Support System for the Sustainable Packaging Sector”, co-presented with Kun Feng (Director of SR Mailing) at the ATOD event, University of Leeds
 - 2025, "Applying AI for Enterprise Intelligence and Manufacturing Innovation", The Future Advanced Metrology Hub for Sustainable Manufacturing
 - 2023, "Machine Learning for Decision-making in Intelligent Manufacturing", centre for decision research, University of Leeds
 - 2023, "Machine Learning Research in Intelligent Manufacturing", research festival, University of Huddersfield
