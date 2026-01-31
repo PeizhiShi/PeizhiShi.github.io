@@ -7960,7 +7960,7 @@ a.anchor-link {
 <span class="c1"># Use the scatter plot (area vs price) to judge whether the relationship is positive or negative.</span>
 
 <span class="c1"># ANSWER (conceptual):</span>
-<span class="c1"># - Typically yes: larger area tends to be associated with higher price.</span>
+<span class="c1"># - Yes: larger area tends to be associated with higher price.</span>
 
 <span class="c1"># Explanation:</span>
 <span class="c1"># - This is an association from the data, not necessarily causal.</span>
@@ -8146,26 +8146,6 @@ a.anchor-link {
 <span class="c1"># Common mistakes:</span>
 <span class="c1"># - Trying to interpret classification accuracy like regression MAE</span>
 <span class="c1"># - Forgetting that probability outputs allow threshold tuning</span>
-</pre></div>
-</div>
-</div>
-</div>
-</div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=b1a7ac99-e926-4fc5-98c6-6be0c8b87b82">
-<div class="jp-Cell-inputWrapper" tabindex="0">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
-<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
-<div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">plt</span><span class="o">.</span><span class="n">figure</span><span class="p">()</span>
-<span class="n">df</span><span class="o">.</span><span class="n">boxplot</span><span class="p">(</span><span class="n">column</span><span class="o">=</span><span class="s2">"price"</span><span class="p">,</span> <span class="n">by</span><span class="o">=</span><span class="s2">"airconditioning"</span><span class="p">,</span> <span class="n">grid</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
-<span class="n">plt</span><span class="o">.</span><span class="n">xlabel</span><span class="p">(</span><span class="s2">"Air Conditioning"</span><span class="p">)</span>
-<span class="n">plt</span><span class="o">.</span><span class="n">ylabel</span><span class="p">(</span><span class="s2">"Price"</span><span class="p">)</span>
-<span class="n">plt</span><span class="o">.</span><span class="n">title</span><span class="p">(</span><span class="s2">"Price vs Air Conditioning"</span><span class="p">)</span>
-<span class="n">plt</span><span class="o">.</span><span class="n">suptitle</span><span class="p">(</span><span class="s2">""</span><span class="p">)</span>  <span class="c1"># Remove the automatic pandas subtitle</span>
-<span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
 </pre></div>
 </div>
 </div>
