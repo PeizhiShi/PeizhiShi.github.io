@@ -7882,8 +7882,6 @@ a.anchor-link {
 
 <span class="c1"># We evaluate with:</span>
 <span class="c1"># - Accuracy: fraction of correct predictions</span>
-<span class="c1"># - ROC-AUC: ranking quality using probabilities</span>
-<span class="c1"># - Confusion matrix: TP/FP/TN/FN breakdown</span>
 
 <span class="n">y_pred_c</span> <span class="o">=</span> <span class="n">log_clf</span><span class="o">.</span><span class="n">predict</span><span class="p">(</span><span class="n">X_test_c</span><span class="p">)</span>
 <span class="n">y_proba_c</span> <span class="o">=</span> <span class="n">log_clf</span><span class="o">.</span><span class="n">predict_proba</span><span class="p">(</span><span class="n">X_test_c</span><span class="p">)[:,</span> <span class="mi">1</span><span class="p">]</span>
@@ -7893,9 +7891,6 @@ a.anchor-link {
 <span class="nb">print</span><span class="p">(</span><span class="s2">"</span><span class="se">\n</span><span class="s2">Logistic Regression Results (RAW features):"</span><span class="p">)</span>
 <span class="nb">print</span><span class="p">(</span><span class="s2">"Accuracy:"</span><span class="p">,</span> <span class="n">acc</span><span class="p">)</span>
 
-
-<span class="c1"># Common mistakes:</span>
-<span class="c1"># - Using accuracy alone when classes are imbalanced</span>
 
 
 <span class="c1"># ============================================================</span>
