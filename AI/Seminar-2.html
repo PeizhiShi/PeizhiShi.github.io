@@ -7815,11 +7815,7 @@ a.anchor-link {
     <span class="s2">"coefficient"</span><span class="p">:</span> <span class="n">model_raw</span><span class="o">.</span><span class="n">coef_</span>
 <span class="p">})</span><span class="o">.</span><span class="n">sort_values</span><span class="p">(</span><span class="n">by</span><span class="o">=</span><span class="s2">"coefficient"</span><span class="p">,</span> <span class="n">ascending</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
 
-<span class="nb">print</span><span class="p">(</span><span class="s2">"</span><span class="se">\n</span><span class="s2">Top positive effects (RAW model):"</span><span class="p">)</span>
-<span class="nb">print</span><span class="p">(</span><span class="n">effects_raw</span><span class="o">.</span><span class="n">head</span><span class="p">(</span><span class="mi">10</span><span class="p">))</span>
-
-<span class="nb">print</span><span class="p">(</span><span class="s2">"</span><span class="se">\n</span><span class="s2">Top negative effects (RAW model):"</span><span class="p">)</span>
-<span class="nb">print</span><span class="p">(</span><span class="n">effects_raw</span><span class="o">.</span><span class="n">tail</span><span class="p">(</span><span class="mi">10</span><span class="p">))</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">effects_raw</span><span class="p">)</span>
 
 <span class="c1"># Common mistakes:</span>
 <span class="c1"># - Thinking coefficients are causal effects</span>
