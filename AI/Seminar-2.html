@@ -7841,7 +7841,7 @@ a.anchor-link {
 <span class="c1"># - price &lt; median  -&gt; low_price  (0)</span>
 <span class="c1">#</span>
 <span class="c1"># Why median?</span>
-<span class="c1"># - It usually creates balanced classes, which is good for teaching.</span>
+<span class="c1"># - The median is not sensitive to extreme values (outliers).</span>
 
 <span class="n">median_price</span> <span class="o">=</span> <span class="n">df_model</span><span class="p">[</span><span class="s2">"price"</span><span class="p">]</span><span class="o">.</span><span class="n">median</span><span class="p">()</span>
 <span class="n">y_bin</span> <span class="o">=</span> <span class="p">(</span><span class="n">df_model</span><span class="p">[</span><span class="s2">"price"</span><span class="p">]</span> <span class="o">&gt;=</span> <span class="n">median_price</span><span class="p">)</span><span class="o">.</span><span class="n">astype</span><span class="p">(</span><span class="nb">int</span><span class="p">)</span>
